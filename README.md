@@ -4,7 +4,7 @@ Software solutions for receiving [Open Sound Control](https://en.wikipedia.org/w
 
 ## Dependencies
 
-- OSC-route
+- [OSC-route](https://cnmat.berkeley.edu/content/osc-route)
 
 ## History
 
